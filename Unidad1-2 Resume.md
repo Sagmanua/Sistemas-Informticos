@@ -1,5 +1,5 @@
 from pathlib import Path
-import pypandoc
+import pypan  doc   
 
 # Ruta de salida del resumen en formato Markdown
 output_md = "/mnt/data/Resumen_Sistemas_y_Instalacion.md"
